@@ -1,5 +1,8 @@
 # VRF
 
+
+![Creating a VLAN](https://raw.githubusercontent.com/deliawolf/VRF/main/Screenshot%202023-10-31%20at%2015.39.38.png)
+
 A VRF instance consists of an IP routing table, a derived forwarding table, a set of interfaces that use the forwarding table, and a set of rules and routing protocols that determine what goes into the forwarding table. The use of VRF technology allows the customer to virtualize a network device from a Layer 3 standpoint, creating different "virtual routers" in the same physical device.
 
 ```
